@@ -12,4 +12,4 @@ I'm always looking for new projects to collaborate on in order to learn and grow
 
 When not coding, I am usually reading or exploring local trails and restaurants, so always feel free to drop recommendations on any of those!
 You can reach me at:
-- [LinkedIn](https://www.linkedin.com/in/schitransh/) - Excited to meet new folks and have a coffee chat 💬
+[LinkedIn](https://www.linkedin.com/in/schitransh/) - Excited to meet new folks and have a coffee chat 💬
