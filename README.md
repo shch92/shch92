@@ -8,7 +8,7 @@ Starting my career as a Geoscientist in the Oil and Gas industry I worked with e
 - Twitter (now X) Topic Modelling (NLP) 
 - Bank Transaction 🏦
 
-I'm always looking for new projects to collaborate on in order to learn and grow 🌱. Currently working on a project involving Object Detection to understand the nuances of working with image data and Time Series modelling for Bikeshare Data. If you're new to coding then you can also checkout the Advent repository where coding challenges are explained on a step by step basis. 
+I'm always looking for new projects to collaborate on in order to learn and grow 🌱. Currently working on a project involving Object Detection to understand the nuances of working with image data and Time Series modelling for Housing Data. If you're new to coding then you can also checkout the Advent repository where coding challenges are explained on a step by step basis. 
 
 When not coding, I am usually reading or exploring local trails and restaurants, so always feel free to drop recommendations on any of those!
 You can reach me at:  
